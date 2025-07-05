@@ -4,7 +4,7 @@ def przywitanie():
     print("Cześć, użytkowniku!")
 
 def project_info():
-    print("To jest prosty projekt demonstracyjny do nauki Gita.")
+    print("To jest prosty projekt demonstracyjny do nauki systemu kontroli wersji Git.") # poprawiona treść
 
 def show_menu():
     print("\n--- MENU ---")
