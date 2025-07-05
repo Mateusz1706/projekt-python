@@ -1,6 +1,5 @@
 def przywitanie():
-    """Łączy oba powitalne komunikaty."""
-    print("Witaj w moim projekcie!")
+    print("Witaj w moim projekcie! Wersja A nagłówka.")
     print("Cześć, użytkowniku!")
 
 def project_info():
